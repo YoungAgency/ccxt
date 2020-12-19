@@ -165,6 +165,7 @@ const exchanges = {
     'xbtce':                   require ('./js/xbtce.js'),
     'xena':                    require ('./js/xena.js'),
     'yobit':                   require ('./js/yobit.js'),
+    'youngplatform':           require ('./js/youngplatform.js'),
     'zaif':                    require ('./js/zaif.js'),
     'zb':                      require ('./js/zb.js'),    
 }

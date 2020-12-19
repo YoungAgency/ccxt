@@ -17,6 +17,7 @@ module.exports = async (exchange, symbol) => {
         'btcalpha', // issue with 404 on a documented endpoint https://travis-ci.org/ccxt/ccxt/builds/643930431#L2213
         'bitmex', // an issue with null values,to be resolved later
         'cex',
+        'youngplatform'
     ]
 
     if (skippedExchanges.includes (exchange.id)) {

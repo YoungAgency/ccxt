@@ -185,6 +185,7 @@ class Exchange {
         'xbtce',
         'xena',
         'yobit',
+        'youngplatform',
         'zaif',
         'zb',
     );

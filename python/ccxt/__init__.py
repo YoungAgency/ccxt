@@ -191,6 +191,7 @@ from ccxt.whitebit import whitebit                          # noqa: F401
 from ccxt.xbtce import xbtce                                # noqa: F401
 from ccxt.xena import xena                                  # noqa: F401
 from ccxt.yobit import yobit                                # noqa: F401
+from ccxt.youngplatform import youngplatform                # noqa: F401
 from ccxt.zaif import zaif                                  # noqa: F401
 from ccxt.zb import zb                                      # noqa: F401
 
@@ -318,6 +319,7 @@ exchanges = [
     'xbtce',
     'xena',
     'yobit',
+    'youngplatform',
     'zaif',
     'zb',
 ]

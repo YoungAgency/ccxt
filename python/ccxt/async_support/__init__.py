@@ -173,6 +173,7 @@ from ccxt.async_support.whitebit import whitebit                          # noqa
 from ccxt.async_support.xbtce import xbtce                                # noqa: F401
 from ccxt.async_support.xena import xena                                  # noqa: F401
 from ccxt.async_support.yobit import yobit                                # noqa: F401
+from ccxt.async_support.youngplatform import youngplatform                # noqa: F401
 from ccxt.async_support.zaif import zaif                                  # noqa: F401
 from ccxt.async_support.zb import zb                                      # noqa: F401
 
@@ -300,6 +301,7 @@ exchanges = [
     'xbtce',
     'xena',
     'yobit',
+    'youngplatform',
     'zaif',
     'zb',
 ]

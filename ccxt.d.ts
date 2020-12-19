@@ -552,6 +552,7 @@ declare module 'ccxt' {
     export class xbtce extends Exchange {}
     export class xena extends Exchange {}
     export class yobit extends Exchange {}
+    export class youngplatform extends Exchange {}
     export class zaif extends Exchange {}
     export class zb extends Exchange {}
 
